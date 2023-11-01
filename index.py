@@ -1,6 +1,6 @@
 import os
 app_name = input("Enter the app name : ")
-file_name = input("Enter the file name: ")
+file_name = input("Enter the file name(pdf file): ")
 
 writedatamain = '''
 import 'package:flutter/material.dart';
